@@ -1,6 +1,6 @@
 first line
 add second line
-add third line
+removed
 added y line
 add x line
 add z line

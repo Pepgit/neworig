@@ -1,4 +1,8 @@
 first line
 add second line
 add third line
+<<<<<<< HEAD
 added y line
+=======
+add x line
+>>>>>>> origin/master
